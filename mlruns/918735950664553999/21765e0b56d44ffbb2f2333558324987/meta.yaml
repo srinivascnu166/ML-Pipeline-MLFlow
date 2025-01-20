@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/918735950664553999/21765e0b56d44ffbb2f2333558324987/artifacts
+end_time: 1737392163280
+entry_point_name: ''
+experiment_id: '918735950664553999'
+lifecycle_stage: active
+run_id: 21765e0b56d44ffbb2f2333558324987
+run_name: auspicious-calf-34
+run_uuid: 21765e0b56d44ffbb2f2333558324987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737392155795
+status: 3
+tags: []
+user_id: sakuthota

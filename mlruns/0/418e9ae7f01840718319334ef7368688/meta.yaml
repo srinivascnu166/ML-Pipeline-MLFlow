@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/418e9ae7f01840718319334ef7368688/artifacts
+end_time: 1737390331331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 418e9ae7f01840718319334ef7368688
+run_name: bald-ant-487
+run_uuid: 418e9ae7f01840718319334ef7368688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737390330535
+status: 3
+tags: []
+user_id: sakuthota

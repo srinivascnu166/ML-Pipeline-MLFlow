@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/918735950664553999/17e4d818acef45d8ad87f6ba7794b3bd/artifacts
+end_time: 1737390571435
+entry_point_name: ''
+experiment_id: '918735950664553999'
+lifecycle_stage: active
+run_id: 17e4d818acef45d8ad87f6ba7794b3bd
+run_name: capricious-dog-136
+run_uuid: 17e4d818acef45d8ad87f6ba7794b3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737390570962
+status: 3
+tags: []
+user_id: sakuthota
