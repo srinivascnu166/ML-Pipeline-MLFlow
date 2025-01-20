@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/79b6a919879e46fc81546b4444256886/artifacts
+end_time: 1737395971179
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 79b6a919879e46fc81546b4444256886
+run_name: monumental-carp-783
+run_uuid: 79b6a919879e46fc81546b4444256886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395971109
+status: 3
+tags: []
+user_id: sakuthota

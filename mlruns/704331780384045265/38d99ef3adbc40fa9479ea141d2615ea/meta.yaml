@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/38d99ef3adbc40fa9479ea141d2615ea/artifacts
+end_time: 1737395970761
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 38d99ef3adbc40fa9479ea141d2615ea
+run_name: trusting-swan-15
+run_uuid: 38d99ef3adbc40fa9479ea141d2615ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395970694
+status: 3
+tags: []
+user_id: sakuthota

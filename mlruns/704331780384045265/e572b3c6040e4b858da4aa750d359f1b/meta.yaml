@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/e572b3c6040e4b858da4aa750d359f1b/artifacts
+end_time: 1737395978238
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: e572b3c6040e4b858da4aa750d359f1b
+run_name: sedate-wolf-526
+run_uuid: e572b3c6040e4b858da4aa750d359f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395961876
+status: 3
+tags: []
+user_id: sakuthota

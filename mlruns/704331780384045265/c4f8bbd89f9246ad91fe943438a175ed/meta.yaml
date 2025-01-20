@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/c4f8bbd89f9246ad91fe943438a175ed/artifacts
+end_time: 1737396145467
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: c4f8bbd89f9246ad91fe943438a175ed
+run_name: nervous-fish-147
+run_uuid: c4f8bbd89f9246ad91fe943438a175ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737396145415
+status: 3
+tags: []
+user_id: sakuthota

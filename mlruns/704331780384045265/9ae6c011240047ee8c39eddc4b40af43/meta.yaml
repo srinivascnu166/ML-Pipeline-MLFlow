@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/9ae6c011240047ee8c39eddc4b40af43/artifacts
+end_time: 1737395799786
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 9ae6c011240047ee8c39eddc4b40af43
+run_name: colorful-sheep-831
+run_uuid: 9ae6c011240047ee8c39eddc4b40af43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395799736
+status: 3
+tags: []
+user_id: sakuthota

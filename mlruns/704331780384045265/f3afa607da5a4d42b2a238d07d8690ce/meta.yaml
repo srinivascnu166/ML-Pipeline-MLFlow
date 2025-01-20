@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/f3afa607da5a4d42b2a238d07d8690ce/artifacts
+end_time: 1737396145268
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: f3afa607da5a4d42b2a238d07d8690ce
+run_name: sassy-horse-698
+run_uuid: f3afa607da5a4d42b2a238d07d8690ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737396145222
+status: 3
+tags: []
+user_id: sakuthota

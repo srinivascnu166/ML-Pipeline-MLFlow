@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/6a74554af97848299fdb37a4d7d60a73/artifacts
+end_time: 1737396145318
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 6a74554af97848299fdb37a4d7d60a73
+run_name: flawless-rat-930
+run_uuid: 6a74554af97848299fdb37a4d7d60a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737396145268
+status: 3
+tags: []
+user_id: sakuthota

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/39a1a70982ce4878a789c40ce5cf8a47/artifacts
+end_time: 1737395970847
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 39a1a70982ce4878a789c40ce5cf8a47
+run_name: kindly-kite-858
+run_uuid: 39a1a70982ce4878a789c40ce5cf8a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395970778
+status: 3
+tags: []
+user_id: sakuthota

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/d71e6e1ea5094372bafdac7bba824ae8/artifacts
+end_time: 1737396145600
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: d71e6e1ea5094372bafdac7bba824ae8
+run_name: powerful-conch-79
+run_uuid: d71e6e1ea5094372bafdac7bba824ae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737396145567
+status: 3
+tags: []
+user_id: sakuthota

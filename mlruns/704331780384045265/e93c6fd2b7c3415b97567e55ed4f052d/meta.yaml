@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/e93c6fd2b7c3415b97567e55ed4f052d/artifacts
+end_time: 1737395970996
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: e93c6fd2b7c3415b97567e55ed4f052d
+run_name: stylish-snail-274
+run_uuid: e93c6fd2b7c3415b97567e55ed4f052d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395970930
+status: 3
+tags: []
+user_id: sakuthota

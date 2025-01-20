@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/551dc1ce25544142ad3a0cd11be00c1e/artifacts
+end_time: 1737395799357
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 551dc1ce25544142ad3a0cd11be00c1e
+run_name: bald-whale-156
+run_uuid: 551dc1ce25544142ad3a0cd11be00c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395799277
+status: 3
+tags: []
+user_id: sakuthota

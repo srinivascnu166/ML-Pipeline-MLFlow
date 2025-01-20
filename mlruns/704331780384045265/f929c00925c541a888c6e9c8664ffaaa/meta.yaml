@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/f929c00925c541a888c6e9c8664ffaaa/artifacts
+end_time: 1737395799662
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: f929c00925c541a888c6e9c8664ffaaa
+run_name: bedecked-kit-946
+run_uuid: f929c00925c541a888c6e9c8664ffaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395799611
+status: 3
+tags: []
+user_id: sakuthota

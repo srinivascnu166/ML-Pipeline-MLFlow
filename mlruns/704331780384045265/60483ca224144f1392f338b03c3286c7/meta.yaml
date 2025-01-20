@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/60483ca224144f1392f338b03c3286c7/artifacts
+end_time: 1737396145517
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 60483ca224144f1392f338b03c3286c7
+run_name: dashing-mole-465
+run_uuid: 60483ca224144f1392f338b03c3286c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737396145467
+status: 3
+tags: []
+user_id: sakuthota

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265
+creation_time: 1737395788321
+experiment_id: '704331780384045265'
+last_update_time: 1737395788321
+lifecycle_stage: active
+name: breast-cancer-rf-hp

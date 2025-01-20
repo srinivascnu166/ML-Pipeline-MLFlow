@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/a36cd24a7a7748e2b82269542a1a759b/artifacts
+end_time: 1737395800021
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: a36cd24a7a7748e2b82269542a1a759b
+run_name: fun-newt-342
+run_uuid: a36cd24a7a7748e2b82269542a1a759b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395799971
+status: 3
+tags: []
+user_id: sakuthota

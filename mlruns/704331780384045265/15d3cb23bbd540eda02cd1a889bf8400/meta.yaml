@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/15d3cb23bbd540eda02cd1a889bf8400/artifacts
+end_time: 1737395800084
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 15d3cb23bbd540eda02cd1a889bf8400
+run_name: calm-elk-745
+run_uuid: 15d3cb23bbd540eda02cd1a889bf8400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395800031
+status: 3
+tags: []
+user_id: sakuthota

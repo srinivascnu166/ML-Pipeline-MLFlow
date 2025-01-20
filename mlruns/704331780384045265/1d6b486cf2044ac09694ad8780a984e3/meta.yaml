@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/1d6b486cf2044ac09694ad8780a984e3/artifacts
+end_time: 1737396145566
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 1d6b486cf2044ac09694ad8780a984e3
+run_name: carefree-dog-574
+run_uuid: 1d6b486cf2044ac09694ad8780a984e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737396145517
+status: 3
+tags: []
+user_id: sakuthota

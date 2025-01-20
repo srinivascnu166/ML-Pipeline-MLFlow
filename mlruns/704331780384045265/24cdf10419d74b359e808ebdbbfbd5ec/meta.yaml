@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/24cdf10419d74b359e808ebdbbfbd5ec/artifacts
+end_time: 1737395971059
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 24cdf10419d74b359e808ebdbbfbd5ec
+run_name: nimble-bird-711
+run_uuid: 24cdf10419d74b359e808ebdbbfbd5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395970996
+status: 3
+tags: []
+user_id: sakuthota

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sakuthota/Downloads/MLOps_tutorials/ML-Pipeline-MLFlow/mlruns/704331780384045265/9a37c772578a4b1291afb920586d5445/artifacts
+end_time: 1737395799967
+entry_point_name: ''
+experiment_id: '704331780384045265'
+lifecycle_stage: active
+run_id: 9a37c772578a4b1291afb920586d5445
+run_name: shivering-sponge-892
+run_uuid: 9a37c772578a4b1291afb920586d5445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737395799917
+status: 3
+tags: []
+user_id: sakuthota
